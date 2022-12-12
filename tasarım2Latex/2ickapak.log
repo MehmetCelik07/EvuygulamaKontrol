@@ -1,0 +1,791 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.22)  22 NOV 2021 20:26
+entering extended mode
+**./2ickapak.tex
+(2ickapak.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-12>
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{figure}
+                  [H]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{figure}[
+                   H]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.4 \includegraphics
+                    [scale=0.2]{logomuz}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no z in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \end{figure}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--8
+[]
+ []
+
+
+Overfull \hbox (22.69432pt too wide) in paragraph at lines 9--9
+ \OT1/cmr/bx/n/10 T.C. 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \textbf{BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ}
+                                               \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝK).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \textbf{BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ}
+                                               \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÞE).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \textbf{BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ}
+                                               \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝÜ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \textbf{BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ}
+                                               \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝV).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \textbf{BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ}
+                                               \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝT).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \textbf{BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ}
+                                               \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ý\check@icr).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \textbf{BÝLECÝK ÞEYH EDEBALÝ ÜNÝVERSÝTESÝ}
+                                               \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (24.04153pt too wide) in paragraph at lines 10--10
+ []\OT1/cmr/bx/n/10 BEC 
+ []
+
+
+Overfull \hbox (17.69435pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/bx/n/10 YH 
+ []
+
+
+Overfull \hbox (27.76373pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/bx/n/10 EDE- 
+ []
+
+
+Overfull \hbox (27.62485pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/bx/n/10 BAL- 
+ []
+
+
+Overfull \hbox (45.51364pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/bx/n/10 NERSES 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÜH).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \textbf{MÜHENDÝSLÝK FAKÜLTESÝ}
+                                   
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝS).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \textbf{MÜHENDÝSLÝK FAKÜLTESÝ}
+                                   
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝK).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \textbf{MÜHENDÝSLÝK FAKÜLTESÝ}
+                                   
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÜL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \textbf{MÜHENDÝSLÝK FAKÜLTESÝ}
+                                   
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ý\check@icr).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \textbf{MÜHENDÝSLÝK FAKÜLTESÝ}
+                                   
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (43.2081pt too wide) in paragraph at lines 11--12
+ []\OT1/cmr/bx/n/10 MENDL 
+ []
+
+
+Overfull \hbox (27.49985pt too wide) in paragraph at lines 11--12
+ \OT1/cmr/bx/n/10 FAK- 
+ []
+
+
+Overfull \hbox (21.94432pt too wide) in paragraph at lines 11--12
+ \OT1/cmr/bx/n/10 TES 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝS).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÜH).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝS).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝÐ).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝB).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÖL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÜM).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ü\check@icr).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \textbf{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ BÖLÜMÜ}
+                                            
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (50.01361pt too wide) in paragraph at lines 13--14
+ []\OT1/cmr/bx/n/10 BGAYAR 
+ []
+
+
+Overfull \hbox (43.2081pt too wide) in paragraph at lines 13--14
+ \OT1/cmr/bx/n/10 MENDL 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--17
+[] 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÜA).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...KTAN KONTROLLÜ AKILLI EV GÜVENLÝK SÝSTEMÝ}
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÜV).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...KTAN KONTROLLÜ AKILLI EV GÜVENLÝK SÝSTEMÝ}
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝK).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...KTAN KONTROLLÜ AKILLI EV GÜVENLÝK SÝSTEMÝ}
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝS).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...KTAN KONTROLLÜ AKILLI EV GÜVENLÝK SÝSTEMÝ}
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Ý\check@icr).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...KTAN KONTROLLÜ AKILLI EV GÜVENLÝK SÝSTEMÝ}
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (58.31912pt too wide) in paragraph at lines 18--19
+ \OT1/cmr/bx/n/10 UZAKTAN 
+ []
+
+
+Overfull \hbox (30.1665pt too wide) in paragraph at lines 18--19
+ \OT1/cmr/bx/n/10 KON- 
+ []
+
+
+Overfull \hbox (35.69424pt too wide) in paragraph at lines 18--19
+ \OT1/cmr/bx/n/10 TROL- 
+ []
+
+
+Overfull \hbox (38.48589pt too wide) in paragraph at lines 18--19
+ \OT1/cmr/bx/n/10 LKILLI 
+ []
+
+
+Overfull \hbox (16.24991pt too wide) in paragraph at lines 18--19
+ \OT1/cmr/bx/n/10 EV 
+ []
+
+
+Overfull \hbox (32.5137pt too wide) in paragraph at lines 18--19
+ \OT1/cmr/bx/n/10 GENL 
+ []
+
+
+Overfull \hbox (32.86093pt too wide) in paragraph at lines 18--19
+ \OT1/cmr/bx/n/10 STEM 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÇE).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \textbf{MEHMET ÇELÝK}
+                          
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝK).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \textbf{MEHMET ÇELÝK}
+                          
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (53.94415pt too wide) in paragraph at lines 20--21
+ []\OT1/cmr/bx/n/10 MEHMET 
+ []
+
+
+Overfull \hbox (6.91663pt too wide) in paragraph at lines 20--21
+ \OT1/cmr/bx/n/10 L 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÇA).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \textbf{PROJE II ÇALIÞMASI}
+                                
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÞM).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \textbf{PROJE II ÇALIÞMASI}
+                                
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (38.30534pt too wide) in paragraph at lines 22--23
+ []\OT1/cmr/bx/n/10 PROJE 
+ []
+
+
+Overfull \hbox (9.04161pt too wide) in paragraph at lines 22--23
+ \OT1/cmr/bx/n/10 II 
+ []
+
+
+Overfull \hbox (30.72205pt too wide) in paragraph at lines 22--23
+ \OT1/cmr/bx/n/10 LIASI 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 26--26
+[] 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÞM).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...PROJE II DANIÞMANI : Doç. Dr. Emre DANDIL}
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ç.D).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...PROJE II DANIÞMANI : Doç. Dr. Emre DANDIL}
+                                                  
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (38.30534pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 PROJE 
+ []
+
+
+Overfull \hbox (9.04161pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 II 
+ []
+
+
+Overfull \hbox (21.02766pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 DA- 
+ []
+
+
+Overfull \hbox (17.19435pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 NI- 
+ []
+
+
+Overfull \hbox (22.05544pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 ANI 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 : 
+ []
+
+
+Overfull \hbox (22.4999pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 Dor. 
+ []
+
+
+Overfull \hbox (27.1457pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 Emre 
+ []
+
+
+Overfull \hbox (46.29141pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/n/10 DANDIL 
+ []
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝL).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \textbf{BÝLECÝK}
+                     \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ÝK).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \textbf{BÝLECÝK}
+                     \\
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+Overfull \hbox (24.04153pt too wide) in paragraph at lines 29--29
+ []\OT1/cmr/bx/n/10 BEC 
+ []
+
+! Undefined control sequence.
+<recently read> \today 
+                       
+l.30 \textbf{\today}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> ./2ickapak.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 43 strings out of 478699
+ 578 string characters out of 2856818
+ 297412 words of memory out of 3000000
+ 18230 multiletter control sequences out of 15000+600000
+ 403738 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 15i,1n,12p,109b,125s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

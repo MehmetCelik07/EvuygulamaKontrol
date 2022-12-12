@@ -1,0 +1,19 @@
+\babel@toc {turkish}{}\relax 
+\contentsline {section}{\"OZET}{ii}{Doc-Start}%
+\contentsline {section}{ABSTRACT}{iii}{Doc-Start}%
+\contentsline {section}{TE\c SEKK\"UR}{iv}{Doc-Start}%
+\contentsline {section}{\c SEK\.IL L\.ISTES\.I}{vi}{section*.1}%
+\contentsline {section}{\numberline {1}G\.IR\.I\c S}{1}{section.1}%
+\contentsline {section}{\numberline {2}TEKNOLOJ\.I GEL\.I\c S\.IM\.I}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}End\"ustri 4.0}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}T\"urkiye'de End\"ustri 4.0}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Nesnelerin \.Interneti}{3}{subsection.2.3}%
+\contentsline {section}{\numberline {3}DONANIM VE YAZILIM ALTYAPISI}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Haberle\c sme}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Mobil Uygulama}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Mobil Uygulama Kodlar\IeC {\i }}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Elektronik Devre}{16}{subsection.3.4}%
+\contentsline {section}{\numberline {4}SONU\c CLAR VE \"ONER\.ILER}{21}{section.4}%
+\contentsline {section}{\numberline {5}EKLER}{22}{section.5}%
+\contentsline {section}{KAYNAKLAR}{23}{section.5}%
+\contentsline {section}{\"OZGE\c CM\.I\c S}{25}{section*.2}%
